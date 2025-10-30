@@ -12,5 +12,5 @@ func main() {
 	fmt.Println("Halo nama saya", name, "Umur saya", age, "Tahun")
 
 	// Pakai format Printf
-	fmt.Printf("Halo nama saya %s, umur saya %d Tahun", name, age)
+	fmt.Printf("Halo nama saya %s, umur saya %d Tahun\n", name, age)
 }
